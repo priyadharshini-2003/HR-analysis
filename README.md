@@ -1,4 +1,4 @@
-# HR-analysis
+# HR-Analysis
 📘 HR Attrition Prediction and Analysis – Project Summary
 🎯 Project Objective
 To analyze employee attrition using machine learning and visualize key attrition patterns through a Power BI dashboard. The goal is to identify factors contributing to attrition and provide data-driven recommendations for retention.
